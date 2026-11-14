@@ -1,0 +1,15 @@
+{
+  "name": "agent-allowance",
+  "version": "1.0.0",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "build": "near-sdk-js build src/contract.ts build/agent_allowance.wasm"
+  },
+  "dependencies": {
+    "near-sdk-js": "^2.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.0"
+  }
+}
