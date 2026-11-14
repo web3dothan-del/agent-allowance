@@ -14,3 +14,5 @@ Deployed vault: https://testnet.nearblocks.io/address/vault.web3dothan.testnet
 6. Alice 0.1 NEAR again: BLOCKED (exceeds daily cap)
 
 Each run prints an explorer link per transaction. Amounts are small because the 551 KB contract locks most of the vault's testnet balance for storage.
+
+Note: the two failed `spend` transactions in the explorer are from a first run with larger amounts, before the demo limits were lowered to fit the vault's balance. The final run is the six verdicts above.
