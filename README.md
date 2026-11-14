@@ -1,4 +1,7 @@
 # agent-allowance
+
+**Live demo (try to hack the agent):** https://web3dothan-del.github.io/agent-allowance/
+**On-chain vault:** https://testnet.nearblocks.io/address/vault.web3dothan.testnet
 ## Live testnet proof
 Deployed vault: https://testnet.nearblocks.io/address/vault.web3dothan.testnet
 
